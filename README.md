@@ -1,3 +1,14 @@
+ # EXP - 1
+
+ # 21-09-2024
+
+
+# Name : CH.DINESH KUMAR                                             
+# REG : 24000305
+
+
+
+
 #  Mean and variance of a discrete  distribution
 
 
